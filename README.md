@@ -204,5 +204,8 @@ Next start the server from the projects main directory using python3 manage.py r
 
 ![temp](https://user-images.githubusercontent.com/118364993/234471702-fc3772cc-6d4a-4ab7-90d1-8c0d4503e543.png)
 
+### Html validator
+![html](https://user-images.githubusercontent.com/118364993/234472409-7c836a04-e127-49f8-80f3-40269a37b15a.png)
+
 ## Result:
 Thus the code has been executed successfully.
